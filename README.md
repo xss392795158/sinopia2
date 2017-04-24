@@ -1,4 +1,6 @@
-# sinopia2
+# 创建本地仓库
+
+# step1 配置
 
 config.yaml文件设置：（不需要http://）
 uplinks:
@@ -11,7 +13,7 @@ prefix=C:\Users\Administrator\AppData\Roaming\sinopia\storage
 registry=http://localhost:4873/
 
 
-# 运行：
+# step2 运行：
 
 cmd执行sinopia
 另一个cmd 打开项目文件夹
